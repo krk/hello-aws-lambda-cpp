@@ -1,6 +1,8 @@
 .vscode
 
 **/build
+from_docker
+dist
 
 *.ii
 *.s
